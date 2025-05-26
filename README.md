@@ -35,3 +35,8 @@ cd my-volume-directory
 ```bash
 cat my-volume-file.txt
 ```
+
+---
+
+🌐 Random quote I heard at the SE course at UBB today which I liked:
+> Write your code just as if the person who maintains it is a psycopath who has your address.
