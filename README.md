@@ -39,4 +39,4 @@ cat my-volume-file.txt
 ---
 
 🌐 Random quote I heard at the SE course at UBB today which I liked:
-> Write your code just as if the person who maintains it is a psycopath who knows where you live.
+> "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
